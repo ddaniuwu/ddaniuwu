@@ -5,7 +5,6 @@
 
 ````
 String my_languages[] ={"c" , "c++" , "Java" , "Python"};
-String cloud_tools[]={"Azure" , "Google Cloud"};
 
       System.out.println("These are my favorite & main programming languages");
 
@@ -13,8 +12,17 @@ String cloud_tools[]={"Azure" , "Google Cloud"};
       String my_var = my_languages[i];
       System.out.println(my_var);
       }
+`````
+
+
+````
+def cloud_tools(tool1 , tool2 ):
+            print(tool1 , tool2)
+                
+cloud_tools("Azure" , "GCP")
 
 `````
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/DaniDaniel1245?label=%40DaniDaniel1245&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/ddaniuwu?style=social)
