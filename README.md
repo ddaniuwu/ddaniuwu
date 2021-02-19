@@ -15,7 +15,7 @@ String cloud_tools = new String["Azure" , "Google Cloud"];
 `````
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DaniDaniel1245?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/DaniDaniel1245?label=%40DaniDaniel1245&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/ddaniuwu?style=social)
 
 
