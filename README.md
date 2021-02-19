@@ -1,20 +1,20 @@
-### Hi there  , Luis Daniel Here 
-![](https://gifimage.net/wp-content/uploads/2017/10/mini-gif-12.gif)
+### Hi there  , Luis Daniel Here  ! 👍😁
+![](https://media3.giphy.com/media/DBW3BniaWrFo4/giphy.gif)
 
 
 
 ````
-String my_languages = new String ["c" , "c++" , "Java" , "Python"];
-String cloud_tools = new String["Azure" , "Google Cloud"];
-  
+String my_languages[] ={"c" , "c++" , "Java" , "Python"};
+String cloud_tools[]={"Azure" , "Google Cloud"};
+
+      System.out.println("These are my favorite & main programming languages");
+
   for(int i = 0 ; i < my_languages.lenght; i++);
       String my_var = my_languages[i];
-      System.out.println("These are my main languages : "my_var);
+      System.out.println(my_var);
       }
 
 `````
-
-![Twitter Follow](https://twitter.com/DaniDaniel1245)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/DaniDaniel1245?label=%40DaniDaniel1245&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/ddaniuwu?style=social)
@@ -22,10 +22,9 @@ String cloud_tools = new String["Azure" , "Google Cloud"];
 
 - 🔭 **I’m currently student at TESCI**
 - I**love learning about cloud Services!** 💭 
+- 
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaniuwu&theme=blue-green)
 
 
+📕💻 Don't give Up!
