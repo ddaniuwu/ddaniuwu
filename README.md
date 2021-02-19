@@ -2,9 +2,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fhome)
 ![GitHub followers](https://img.shields.io/github/followers/ddaniuwu?style=social)
 
-<!--
-**ddaniuwu/ddaniuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
+
 
 ````
 String my_languages = new String ["c" , "c++" , "Java" , "Python"];
@@ -15,7 +13,7 @@ String cloud_tools = new String["Azure" , "Google Cloud"];
       System.out.println(my_var);
       }
 
-````
+`````
 
 - 🔭 I’m currently student at TESCI ...
 
@@ -27,4 +25,5 @@ String cloud_tools = new String["Azure" , "Google Cloud"];
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
