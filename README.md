@@ -23,8 +23,6 @@ String my_languages[] ={"c" , "c++" , "Java" , "Python"};
       System.out.println(my_var);
       }
 `````
-### Iaas ###
-
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
