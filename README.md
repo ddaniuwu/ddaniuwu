@@ -1,5 +1,5 @@
 ### Hi there  , Luis Daniel Here ![](https://gifimage.net/wp-content/uploads/2017/10/mini-gif-12.gif)
-https://img.shields.io/twitter/follow/DaniDaniel1245?label=Follow&style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/DaniDaniel1245?label=Follow&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/ddaniuwu?style=social)
 
 
