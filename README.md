@@ -23,16 +23,10 @@ String my_languages[] ={"c" , "c++" , "Java" , "Python"};
       System.out.println(my_var);
       }
 `````
+### Iaas ###
+
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-````
-def cloud_tools(tool1 , tool2 ):
-            print(tool1 , tool2)
-                
-cloud_tools("Azure" , "GCP")
-
-`````
 
 ### SOCIAL CONTACT 
 - [![Generic badge](https://img.shields.io/badge/Twitter-@DaniDaniel1245-Blue.svg)](https://twitter.com/DaniDaniel1245)
