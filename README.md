@@ -1,7 +1,5 @@
 ### Hi there  , Luis Daniel Here 
 ![](https://gifimage.net/wp-content/uploads/2017/10/mini-gif-12.gif)
-![Twitter Follow](https://img.shields.io/twitter/follow/DaniDaniel1245?label=Follow&style=social)
-![GitHub followers](https://img.shields.io/github/followers/ddaniuwu?style=social)
 
 
 
@@ -16,8 +14,13 @@ String cloud_tools = new String["Azure" , "Google Cloud"];
 
 `````
 
--🔭 **I’m currently student at TESCI**
--I**love learning about cloud Services!** 💭 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/DaniDaniel1245?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/ddaniuwu?style=social)
+
+
+- 🔭 **I’m currently student at TESCI**
+- I**love learning about cloud Services!** 💭 
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
