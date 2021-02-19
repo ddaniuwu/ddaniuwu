@@ -34,9 +34,9 @@ cloud_tools("Azure" , "GCP")
 
 `````
 
-SOCIAL CONTACT
-[![Generic badge](https://img.shields.io/badge/Twitter-@DaniDaniel1245-Blue.svg)](https://twitter.com/DaniDaniel1245)
-[![Generic badge](https://img.shields.io/badge/LinkedIn-Blue.svg)](https://www.linkedin.com/in/luis-daniel-hern%C3%A1ndez-guevara-2b78ab206/)
+### SOCIAL CONTACT 
+- [![Generic badge](https://img.shields.io/badge/Twitter-@DaniDaniel1245-Blue.svg)](https://twitter.com/DaniDaniel1245)
+- [![Generic badge](https://img.shields.io/badge/LinkedIn-Blue.svg)](https://www.linkedin.com/in/luis-daniel-hern%C3%A1ndez-guevara-2b78ab206/)
 
 
 
