@@ -1,6 +1,6 @@
 ### Hi there  , Luis Daniel Here  ! 👍😁
 ### WELCOME TO MY PERSONAL GITHUB PROFILE 
-## Here you will see my main skills as a programmer and some of my projects enjoy it!
+## Here you will see my main skills as a programmer and some of my projects !
 ![](https://media3.giphy.com/media/DBW3BniaWrFo4/giphy.gif)
 
 ### LANGUAGES
