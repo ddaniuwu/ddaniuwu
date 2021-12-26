@@ -29,6 +29,7 @@
 # Here you will find some of my latelly projects made with Java and SpringBoot Framework
 ## These projects are realted to the RESTFUL web Development 
 ## I've worked JSP and Java Persistence API projects with some dependencies like Lombok , Thymeleaf and Maven/Gradle with Apache Tomcat.
+
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -38,6 +39,7 @@
 - https://github.com/ddaniuwu/SpringBootExample
 - https://github.com/ddaniuwu/spring
 
+![](https://github.com/ddaniuwu/restaurant-api/blob/b591fd3d3e91eddbb32fe9e4a7178d44ffb7928a/public/img2/JSON-Example.PNG)
 
 ````
 String my_languages[] ={"c" , "c++" , "Java" , "Python"};
