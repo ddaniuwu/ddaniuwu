@@ -34,6 +34,7 @@
 ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 - https://github.com/ddaniuwu/mysqlconnector_java
 - https://github.com/ddaniuwu/SpringBootExample
@@ -65,8 +66,6 @@ String my_languages[] ={"c" , "c++" , "Java" , "Python"};
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - https://github.com/ddaniuwu/PlataformaDidactica
   
-![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 You can find a chatboot that i made with Polymer 2 for a Hackaton to BBVA and the deployment with GITHUBPAGES
 - https://ddaniuwu.github.io/chat/
 
