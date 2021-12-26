@@ -43,9 +43,7 @@ String my_languages[] ={"c" , "c++" , "Java" , "Python"};
 ![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen6.PNG)
 ![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen7.PNG)
 
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-      - Here you will see a project made with PHP , and some other tools about FrontEnd web Dev.
       - https://github.com/ddaniuwu/PlataformaDidactica
       
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
