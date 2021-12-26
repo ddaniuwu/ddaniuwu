@@ -19,8 +19,6 @@
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen2.PNG)
-![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen3.PNG)
 ![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen4.PNG)
 ![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen5.PNG)
 ![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen6.PNG)
