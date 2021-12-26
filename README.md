@@ -77,6 +77,7 @@ You can find a chatboot that i made with Polymer 2 for a Hackaton to BBVA and th
 ![](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
+-*I take online courses XD ^^*
 - 🔭 **I like web development and Cloud Services**
 - **I am a nice guy XD** 💭 
 - 📕💻 Don't give Up!
