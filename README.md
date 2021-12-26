@@ -8,9 +8,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -24,6 +21,16 @@
 
 
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen2.PNG)
+![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen3.PNG)
+![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen4.PNG)
+![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen5.PNG)
+![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen6.PNG)
+![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen7.PNG)
+
+
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
