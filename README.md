@@ -6,15 +6,31 @@
 ### LANGUAGES
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+      -Here you will see a project made with PHP , and some other tools about FrontEnd web Dev.
+      - https://github.com/ddaniuwu/PlataformaDidactica
 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 # Here you will find some of my latelly projects made with Java and SpringBoot Framework
+## These projects are realted to the RESTFUL web Development 
+## Adding to this , I've worked JSP and Java Persistence API projects with some dependencies like Lambdok , Thymeleaf and Maven/Gradle with Apache Tomcat.
       - https://github.com/ddaniuwu/mysqlconnector_java
       - https://github.com/ddaniuwu/SpringBootExample
       - https://github.com/ddaniuwu/spring
 
+
+````
+String my_languages[] ={"c" , "c++" , "Java" , "Python"};
+
+      System.out.println("These are my favorite & main programming languages");
+
+  for(int i = 0 ; i < my_languages.lenght; i++);
+      String my_var = my_languages[i];
+      System.out.println(my_var);
+      }
+      
+
+`````
 
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -35,19 +51,9 @@
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-````
-String my_languages[] ={"c" , "c++" , "Java" , "Python"};
-
-      System.out.println("These are my favorite & main programming languages");
-
-  for(int i = 0 ; i < my_languages.lenght; i++);
-      String my_var = my_languages[i];
-      System.out.println(my_var);
-      }
-`````
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ### SOCIAL CONTACT 
 - [![Generic badge](https://img.shields.io/badge/Twitter-@DaniDaniel1245-Blue.svg)](https://twitter.com/DaniDaniel1245)
@@ -55,10 +61,9 @@ String my_languages[] ={"c" , "c++" , "Java" , "Python"};
 
  ### ABOUT ME 
 
-- 🔭 **I’m currently student at TESCI**
-- **I love learning about cloud Services!** 💭 
+- 🔭 **I like web development and Cloud Services**
+- **I am a nice guy XD ** 💭 
+- 📕💻 Don't give Up!
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaniuwu&theme=blue-green)
 
-
-📕💻 Don't give Up!
