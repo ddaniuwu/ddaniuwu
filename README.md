@@ -1,6 +1,6 @@
-### Hi there  , Luis Daniel Here  ! 👍😁
-### WELCOME TO MY PERSONAL GITHUB PROFILE 
-## Here you will see my main skills as a programmer and some of my projects !
+# Hi there  , Luis Daniel Here  ! 👍😁
+## WELCOME TO MY PERSONAL GITHUB PROFILE 
+### Here you will see my main skills as a programmer and some of my projects !
 ![](https://media3.giphy.com/media/DBW3BniaWrFo4/giphy.gif)
 
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
