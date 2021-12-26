@@ -37,6 +37,7 @@ String my_languages[] ={"c" , "c++" , "Java" , "Python"};
       }
       
 `````
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -47,10 +48,9 @@ String my_languages[] ={"c" , "c++" , "Java" , "Python"};
 ![](https://github.com/ddaniuwu/ServicePlatform/blob/d1f236d9217cece9638ef0a972876a9ca7a4a79b/Platform/Screen7.PNG)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-      - https://github.com/ddaniuwu/PlataformaDidactica
+- https://github.com/ddaniuwu/PlataformaDidactica
   
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 You can find a chatboot that i made with Polymer 2 for a Hackaton to BBVA and the deployment with GITHUBPAGES
 - https://ddaniuwu.github.io/chat/
