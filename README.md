@@ -9,7 +9,7 @@
 
 # Here you will find some of my latelly projects made with Java and SpringBoot Framework
 ## These projects are realted to the RESTFUL web Development 
-## Adding to this , I've worked JSP and Java Persistence API projects with some dependencies like Lambdok , Thymeleaf and Maven/Gradle with Apache Tomcat.
+## I've worked JSP and Java Persistence API projects with some dependencies like Lombok , Thymeleaf and Maven/Gradle with Apache Tomcat.
      
      - https://github.com/ddaniuwu/mysqlconnector_java
      - https://github.com/ddaniuwu/SpringBootExample
@@ -45,7 +45,7 @@ String my_languages[] ={"c" , "c++" , "Java" , "Python"};
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-      -Here you will see a project made with PHP , and some other tools about FrontEnd web Dev.
+      - Here you will see a project made with PHP , and some other tools about FrontEnd web Dev.
       - https://github.com/ddaniuwu/PlataformaDidactica
       
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
