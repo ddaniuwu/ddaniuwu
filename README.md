@@ -9,6 +9,9 @@
 
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+# Here you will find some of my latelly projects made with Java and SpringBoot Framework
+      - https://github.com/ddaniuwu/mysqlconnector_java
+
 
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
