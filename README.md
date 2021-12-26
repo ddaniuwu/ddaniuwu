@@ -21,9 +21,9 @@
 ## These projects are realted to the RESTFUL web Development 
 ## I've worked JSP and Java Persistence API projects with some dependencies like Lombok , Thymeleaf and Maven/Gradle with Apache Tomcat.
      
-     - https://github.com/ddaniuwu/mysqlconnector_java
-     - https://github.com/ddaniuwu/SpringBootExample
-     - https://github.com/ddaniuwu/spring
+- https://github.com/ddaniuwu/mysqlconnector_java
+- https://github.com/ddaniuwu/SpringBootExample
+- https://github.com/ddaniuwu/spring
 
 
 ````
