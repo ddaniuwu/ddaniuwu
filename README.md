@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Here you will find some of my latelly projects made with Java and SpringBoot Framework , Spring Initializer and MVC model view controller.
-## These projects are realted to the RESTFUL web Development 
+## These projects are related to the RESTFUL web Development 
 ## I've worked JSP and Java Persistence API projects with some dependencies like Lombok , Thymeleaf and Maven/Gradle with Apache Tomcat.
 
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
